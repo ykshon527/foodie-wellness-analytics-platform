@@ -1,1 +1,3 @@
 # foodie-wellness-analytics-platform
+
+This project explores how dining culture and wellness accessibility intersect to shape lifestyle patterns in LA and SF. Using Yelp reviews, demographic data, and wellness indicators, the project builds a “Food & Wellness Lifestyle Index” at the neighborhood level. Since tourist activity strongly influences dining preferences in both cities, the project incorporates proxies for tourism (proximity to attractions, Airbnb density, and review distribution patterns) to distinguish between tourist-driven and local dining trends. The goal is to understand how wellness-oriented food culture emerges differently in tourist hotspots versus local neighborhoods.
